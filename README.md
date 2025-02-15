@@ -87,7 +87,7 @@ However, some segmentation errors occurred due to atmospheric conditions, such a
 - Explore real-time deforestation monitoring techniques using similar methods.
 
 ## Authors
-- Fernando Jesçus Fuentes Carrasco
+- Fernando Jesús Fuentes Carrasco
 
 ## References
 NASA Earth Observatory. (n.d.). Making sense of Amazon deforestation patterns. [Link to article]
