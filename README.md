@@ -88,6 +88,3 @@ However, some segmentation errors occurred due to atmospheric conditions, such a
 
 ## Authors
 - Fernando Jesús Fuentes Carrasco
-
-## References
-NASA Earth Observatory. (n.d.). Making sense of Amazon deforestation patterns. [Link to article]
